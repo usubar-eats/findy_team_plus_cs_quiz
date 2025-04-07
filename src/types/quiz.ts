@@ -1,6 +1,1 @@
-export interface Question {
-  text: string;
-  choices: string[];
-  correctIndex: number;
-  explanation: string;
-} 
+export interface Question { text: string; choices: string[]; correctIndex: number; explanation: string; }
