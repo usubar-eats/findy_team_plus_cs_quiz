@@ -448,4 +448,4 @@ export const questions: Question[] = [
     correctIndex: 1,
     explanation: 'Four Keysの指標改善は、市場投入までの時間短縮（スピード）と品質向上（安定性）の両立を可能にします。これにより、ビジネス価値の迅速な提供と顧客満足度の向上が実現できます。'
   }
-]; 
+]; // BUILD_ID: 1744021861
